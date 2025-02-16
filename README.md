@@ -4,6 +4,17 @@
 - What people call impossible standards are what I consider simply higher ones I can accomplish by working hard enough.
 
 ### 👩‍💻 Technologies I have worked with:
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,gcp,cloudflare,prometheus,grafana,docker,kubernetes,jenkins,terraform,linux,nginx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,go,cs,dotnet,rust,py,latex,php&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,materialui,html,css,js,nodejs,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,postman,figma&theme=light)](https://skillicons.dev)
+
+
+
+
+
+### Party Tune
 <br>
 
 <p align="center">
