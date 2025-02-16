@@ -7,9 +7,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure,aws,prometheus,grafana,cloudflare,gcp,docker,kubernetes,jenkins,terraform,linux&theme=light" />
   <br>
-  <img src="https://skillicons.dev/icons?i=java,go,cs,dotnet,rust,py,flutter,html,css,js,nodejs,react,php,latex&theme=light" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,go,cs,dotnet,rust,py,flutter,firebase,html,css,js,nodejs,react,php,latex&theme=light" />
 </p>
 
 ### 🛠️ Ideas I am working on bringing to life (DM to collaborate!):
