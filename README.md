@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 3 things about me:
+- Every artist has a medium and mine is code.
+- Finding the perfect project name is insanely important to me - like, SERIOUSLY important.
+- What people call impossible standards are what I consider simply higher ones I can accomplish by working hard enough.
 
-<!--
-**AshnahKhalidKhan/AshnahKhalidKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Technologies I have worked with:
+<br>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,cloudflare,prometheus,grafana,docker,kubernetes,jenkins,terraform,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=java,go,cs,dotnet,rust,py,latex,php" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,materialui,html,css,js,nodejs,react" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=kali,postman,figma" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Ideas I am currently working (and would love to collaborate) on bringing to life:
