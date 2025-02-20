@@ -22,5 +22,6 @@
 - Colorburst
 - GDSC Pocket App
 - Hadyatussalam
+- Chromatune
 - Crawler
 - Blaze
