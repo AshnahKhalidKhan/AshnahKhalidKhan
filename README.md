@@ -3,8 +3,7 @@
 - Every artist has a medium and mine is code 🎨
 - Finding the perfect project name is insanely important to me - like, SERIOUSLY important 🙊
 - What people call impossible standards are what I consider simply higher ones I can accomplish by working hard enough 💪
---!>
-
+-->
 ### 👩‍💻 Technologies I have worked with:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure,aws,prometheus,grafana,cloudflare,gcp,docker,kubernetes,jenkins,terraform,linux&theme=light" />
