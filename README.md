@@ -15,7 +15,7 @@
 - CheckSQL
 - Shelved
 - sparQ/Scintilla (a title in progress!)
-- Nastaliq/Izhaar (a title in progress!)
+- Nastaliq/Izhaar/Shahnaz (a title in progress!)
 - Pairahan
 - Krypton - Reincarnated
 - Oversimplified
@@ -25,5 +25,6 @@
 - Hadyatussalam
 - Chromatune
 - Quillphony/Murmur/Sarasara
+- Tapestry
 - Crawler
 - Blaze
